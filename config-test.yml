@@ -1,1 +1,2 @@
-这个是config-test配置文件，更改utf-8之后的文件
+config:
+  info:this is config-test
